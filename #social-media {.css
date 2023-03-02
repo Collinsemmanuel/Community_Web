@@ -1,0 +1,28 @@
+#social-media {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+#social-icons {
+  width: 20%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#social-icons i {
+  font-size: 2rem;
+  margin: 0 10px;
+}
+
+#share-buttons {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#share-buttons button {
+  margin: 0 10px;
+}

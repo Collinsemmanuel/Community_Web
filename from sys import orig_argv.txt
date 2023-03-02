@@ -1,0 +1,5 @@
+from sys import orig_argv
+
+script, first, second, third = orig_argv
+
+print "The script is called:", script

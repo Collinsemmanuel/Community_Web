@@ -1,0 +1,8 @@
+#niche-sections {
+  width: 100%;
+}
+
+#niche-sections div {
+  width: 100%;
+  margin-bottom: 10px;
+}

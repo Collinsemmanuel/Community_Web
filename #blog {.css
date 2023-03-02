@@ -1,0 +1,36 @@
+#blog {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#admin-controls {
+  width: 100%;
+}
+
+#new-post-form {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+#new-post-form label {
+  width: 20%;
+  text-align: right;
+  padding-right: 10px;
+}
+
+#new-post-form input[type="text"], #new-post-form textarea {
+  width: 60%;
+}
+
+#posts {
+  width: 100%;
+}
+
+.post {
+  width: 100%;
+  margin-bottom: 10px;
+}
